@@ -1,1 +1,5 @@
-#title: PP0 Foundation, z.s.
+theme: jekyll-theme-cayman
+title: PP0 Foundation
+description: Non-profit independent association
+github:
+  is_project_page: false
